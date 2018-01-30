@@ -1,8 +1,5 @@
 module.exports = {
   "extends": "airbnb",
-  "ignore": [
-    "public/bundle.js"
-  ],
   "env": {
     "browser": true,
     "node": true,
