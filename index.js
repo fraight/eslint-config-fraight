@@ -31,6 +31,7 @@ module.exports = {
     "react/prefer-stateless-functions": "off",
     "react/forbid-prop-types": "off",
     "react/require-default-props": "off",
+    "no-unused-expressions": "off",
     "no-plusplus": "off",
     "comma-dangle": ["error", {
         "arrays": "only-multiline",
