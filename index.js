@@ -23,6 +23,7 @@ module.exports = {
     "no-param-reassign": "off",
     "mocha/no-exclusive-tests": "error",
     "no-await-in-loop": "off",
+    "react/no-array-index-key": "off",
     "arrow-body-style": "off",
     "camelcase": "off",
     "no-restricted-syntax": "off",
