@@ -27,6 +27,7 @@ module.exports = {
     "camelcase": "off",
     "no-restricted-syntax": "off",
     "no-underscore-dangle": "off",
+    "no-alert": "off",
     "react/prop-types": "off",
     "react/prefer-stateless-functions": "off",
     "react/forbid-prop-types": "off",
