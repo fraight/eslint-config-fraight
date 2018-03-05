@@ -19,6 +19,7 @@ module.exports = {
   ],
   "rules": {
     "import/no-extraneous-dependencies": "off",
+    "getMessageDataAndTrain": "off",
     "import/first": "off",
     "no-param-reassign": "off",
     "mocha/no-exclusive-tests": "error",
